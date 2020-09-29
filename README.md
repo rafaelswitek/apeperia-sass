@@ -1,1 +1,1 @@
-# sass-compass
+Projeto realizado no Curso de Sass e Compass: Descomplicando o CSS da Alura.
