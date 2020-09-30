@@ -4,6 +4,10 @@
     background-repeat: no-repeat;
   }
 
+  @function multiplica-fonte($multiplicador) {
+    @return round($multiplicador * $tamanho-da-fonte-padrao);
+  }
+
   /////////////////////////////////////////
 
   @import "compass/css3";
