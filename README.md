@@ -1,4 +1,5 @@
-#apeperia-sass
+# apeperia-sass
+ Projeto do Curso de Sass e Compass da Alura
 
 comando p/ compilar
 sass --watch estilos.scss:estilos.css
